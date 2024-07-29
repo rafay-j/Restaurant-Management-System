@@ -1,0 +1,2 @@
+# Overview
+This C program first checks if a user exists by matching the input name with records saved in a file. If found, it displays the user's details; if not, it prompts the user to register by providing their information. The program includes an ordering system where users can select items from a food menu, with the total bill calculated based on their choices. Functions manage user data, display menus, and handle file operations, ensuring the user can navigate options, register, order food, or exit the program.
